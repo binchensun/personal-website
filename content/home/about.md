@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: /assets/media/jhv_2016-12-15_21.55.39.png
+    image: ""
 ---
