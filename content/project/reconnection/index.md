@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Magnetic Reconnection 
 summary: An example of using the in-built project page.
 tags:
 - Solar Flares 
