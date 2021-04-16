@@ -1,12 +1,14 @@
 ---
 title: Bin Chen
 role: Associate Professor of Physics
+avatar_filename: bin_chen.jpg
 bio: My research interests include radio astronomy, solar flares, coronal mass
   ejections.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solar Flares
+  - Radio Astronomy
+  - Magnetic Reconnection
+  - Particle Acceleration
 social:
   - icon: envelope
     icon_pack: fas
