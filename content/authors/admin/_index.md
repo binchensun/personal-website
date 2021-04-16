@@ -19,7 +19,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/BinChenNJIT
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: New Jersey Institute of Technology
