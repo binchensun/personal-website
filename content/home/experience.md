@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Experience
 subtitle:
@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Associate Professor
+    company: New Jersey Institute of Technology
+    company_url: 'https://www.njit.edu'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Newark, New Jersey
+    date_start: '2016-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Astrophysicist
+    company: Harvard-Smithsonian Center for Astrophysics
+    company_url: 'https://www.cfa.harvard.edu'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cambrdige, MA 
+    date_start: '2014-08-01'
+    date_end: '2015-12-31'
+    description: Science investigations of solar flares using data from Solar Dynamics Observatory, Hinode, Karl G. Jansky Very Large Array, and other telescopes.
 
 design:
   columns: '2'
