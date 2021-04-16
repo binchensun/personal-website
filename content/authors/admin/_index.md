@@ -17,20 +17,19 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://twitter.com/BinChenNJIT
+    icon_pack: ai
+    icon: twitter
 organizations:
   - name: New Jersey Institute of Technology
-    url: www.njit.edu
+    url: https://www.njit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Astronomy
+      institution: University of Virginia
+      year: 2013
 email: bin.chen@njit.edu
 superuser: true
 highlight_name: false
