@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
-subtitle: ''
+title: Publication List
+subtitle: 'Check this [NASA/ADS Library](https://ui.adsabs.harvard.edu/public-libraries/HR_t7W0_Th2sn5tzZmLCAg) for comprehensive list'
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 0
+  count: 10 
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.

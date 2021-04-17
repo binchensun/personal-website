@@ -6,7 +6,7 @@
 title: Bin Chen's Site (under construction) # Website name
 baseurl: 'https://binchensun.github.io' # Website URL
 #baseurl: 'https://binchen.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Bin Chen ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

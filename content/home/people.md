@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 60 
+weight: 25 
 
 title: Meet the Team
 subtitle: Current group members
@@ -16,12 +16,12 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigator
+#  - Principal Investigator
   - Researchers
   - Graduate Students
-  - Administration
-  - Visitors
+  - Undergraduate Students 
   - Alumni
+  order: desc
 design:
   show_interests: false
   show_role: true

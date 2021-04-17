@@ -8,5 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: ""
+    image: "sdo.png"
+    image_darken: 0.5
 ---

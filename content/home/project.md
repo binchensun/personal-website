@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 40 
+weight: 30 
 
 title: Research Projects
 subtitle: ''
@@ -27,10 +27,17 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Solar Flares 
-    tag: Solar Flares
-  - name: CMEs
-    tag: CMEs
+  - name: Solar Flare 
+    tag: Solar Flare
+  - name: CME
+    tag: CME
+  - name: Radio Astronomy
+    tag: Radio Astronomy
+  - name: Instrumentation
+    tag: Instrumentation
+  - name: Plasma Physics
+    tag: Plasma Physics
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

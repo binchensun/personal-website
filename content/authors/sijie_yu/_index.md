@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Dr. Sijie Yu
+weight: 20
 
 # Username (this should match the folder name)
 authors:
@@ -45,15 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sjyu@njit.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SijieYu1203
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0H27OZsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/sjyu1988
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2872-2614 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SijieYu1203
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
