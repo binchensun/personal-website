@@ -5,7 +5,6 @@ subtitle: We are accepting applications to a new postdoctoral position in our gr
 # Summary for listings and search engines
 summary: We are accepting applications to a new postdoctoral position in our group. Earliest start date is May 31, 2021.
 
-
 # Link this post with a project
 projects: []
 
@@ -16,7 +15,7 @@ date: "2021-04-16T00:00:00Z"
 lastmod: "2021-04-16T17:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true 
 
 # Show this page in the Featured widget?
 featured: false
@@ -24,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 #image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#  caption: ''
 #  focal_point: ""
 #  placement: 2
 #  preview_only: false

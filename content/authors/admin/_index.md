@@ -70,4 +70,4 @@ He was the recipient of the [National Science Foundation CAREER Award](https:
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "media/CV_Chen.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 
-**New**: We welcome applications to an [open postdoc position](news/postdoc_2021/) in our group. 
+<!--**New**: We welcome applications to an [open postdoc position](news/postdoc_2021/) in our group.-->
