@@ -27,6 +27,9 @@ lastmod: 2021-04-17T14:14:11-04:00
 featured: false
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2021ApJ...908L..55C/abstract
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

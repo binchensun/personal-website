@@ -24,6 +24,12 @@ lastmod: 2021-04-17T14:14:12-04:00
 featured: true 
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..50C/abstract
+- name: CESRA Highlight
+  url: http://www.astro.gla.ac.uk/users/eduard/cesra/?p=2682
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -37,7 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [eruptions]
+projects: ["eruption"]
 publishDate: '2021-04-17T18:14:12.501665Z'
 publication_types:
 - '2'

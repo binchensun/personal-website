@@ -27,6 +27,18 @@ lastmod: 2021-04-17T14:14:13-04:00
 featured: true 
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1140C/abstract
+- name: NJIT Press Release
+  url: https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare
+- name: CfA Press Release
+  url: https://www.cfa.harvard.edu/news/2020-15
+- name: NSF Featured News
+  url: https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&org=NSF&from=news
+- name: Astronomy Magazine
+  url: https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

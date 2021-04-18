@@ -26,6 +26,11 @@ lastmod: 2021-04-17T14:14:16-04:00
 featured: True 
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2013ApJ...763L..21C/abstract
+- name: NRAO Science Highlight
+  url: https://science.nrao.edu/science/highlights/fy2013
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -39,7 +44,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["acceleration", "reconnection", "radio_bursts"]
+projects: ["radio_bursts"]
 publishDate: '2021-04-17T18:14:16.155128Z'
 publication_types:
 - '2'

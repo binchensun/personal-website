@@ -22,6 +22,14 @@ lastmod: 2021-04-17T14:14:15-04:00
 featured: true
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract
+- name: NRAO Press Release
+  url: https://public.nrao.edu/news/2013-10-01-13-11-51-4/
+- name: Scientific American
+  url: https://www.scientificamerican.com/article/mysteriously-powerful-particles-from-solar-explosions-unveiled-in-new-study/
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -35,7 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["acceleration", "shock_wave"]
+projects: ["shock_wave"]
 publishDate: '2021-04-17T18:14:15.603912Z'
 publication_types:
 - '2'

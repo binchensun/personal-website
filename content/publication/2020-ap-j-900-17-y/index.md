@@ -24,9 +24,12 @@ tags:
 categories: []
 date: '2020-09-01'
 lastmod: 2021-04-17T14:14:12-04:00
-featured: True 
+featured: False 
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2020ApJ...900...17Y/abstract
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -40,7 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [reconnection]
+projects: ["reconnection"]
 publishDate: '2021-04-17T18:14:12.358007Z'
 publication_types:
 - '2'

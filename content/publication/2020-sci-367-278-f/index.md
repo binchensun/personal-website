@@ -20,6 +20,12 @@ lastmod: 2021-04-17T14:14:13-04:00
 featured: true
 draft: false
 
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2020Sci...367..278F/abstract
+- name: NJIT Press Release
+  url: https://news.njit.edu/njit-scientists-record-birth-solar-explosion
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

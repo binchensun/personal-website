@@ -16,12 +16,12 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: "Bin Chen, Ph.D. | New Jersey Institute of Technology"
+twitter: 'BinChenNJIT'
 
 # Contact (edit or remove options as required)
 
-email: bin.chen@njit.edu
+#email: bin.chen@njit.edu
 phone: (+1) 973-596-3565
 address:
   street: 161 Warrent St, 101 Tiernan Hall
@@ -134,7 +134,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-87WZQX9KHW'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
