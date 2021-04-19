@@ -24,7 +24,7 @@ tags:
 categories: []
 date: '2020-09-01'
 lastmod: 2021-04-17T14:14:12-04:00
-featured: False 
+featured: True 
 draft: false
 
 links:

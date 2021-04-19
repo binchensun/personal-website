@@ -1,13 +1,13 @@
 ---
 title: Central Engine of a Solar Eruption 
-subtitle: Our new study published in *Nature Astronomy* reports unprecedented measurements of the magnetic field and relativistic of a large-scale magnetic reconnection current sheet – the "central engine" that powers the mega solar flare on 2017 September 10. 
+subtitle: Our new study published in *Nature Astronomy* reports unprecedented measurements of the magnetic field and relativistic of a large-scale magnetic reconnection current sheet – the "central engine" that powers the mega solar flare on 2017 September 10.  
 
 # Summary for listings and search engines
-summary: Our new study published in *Nature Astronomy* reports unprecedented measurements of the magnetic field and relativistic of a large-scale magnetic reconnection current sheet – the "central engine" that powers the mega solar flare on 2017 September 10. 
+summary: Our new study published in *Nature Astronomy* reports unprecedented measurements of the magnetic field and relativistic of a large-scale magnetic reconnection current sheet – the "central engine" that powers the mega solar flare on 2017 September 10. Click links below for featured stories by funding agencies, institutions, and media outlets.
 
 
 # Link this post with a project
-projects: [reconnection]
+projects: []
 
 # Date published
 date: "2020-12-13T00:00:00Z"
@@ -20,6 +20,18 @@ draft: false
 
 # Show this page in the Featured widget?
 featured: false
+
+links:
+- name: NSF Featured News
+  url: https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300964&org=NSF&from=news
+- name: Astronomy Magazine
+  url: https://astronomy.com/news/2020/07/astronomers-develop-new-method-for-predicting-explosive-solar-flares
+- name: NJIT Press Release
+  url: https://news.njit.edu/researchers-offer-unprecedented-look-central-engine-powering-solar-flare
+- name: CfA Press Release
+  url: https://www.cfa.harvard.edu/news/2020-15
+- name: SolFER Highlight
+  url: https://solfer.umd.edu/about-us/news/1-a-new-view-into-the-central-engine-of-a-large-solar-eruption.html
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
