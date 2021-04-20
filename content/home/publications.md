@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publication List
-subtitle: 'Check this [NASA/ADS Library](https://ui.adsabs.harvard.edu/public-libraries/HR_t7W0_Th2sn5tzZmLCAg) for comprehensive list'
+subtitle: 'Check this [SAO/NASA ADS Library](https://ui.adsabs.harvard.edu/public-libraries/HR_t7W0_Th2sn5tzZmLCAg) for comprehensive list'
 
 content:
   # Page type to display. E.g. post, talk, publication...
