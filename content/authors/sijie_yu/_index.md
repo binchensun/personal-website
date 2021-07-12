@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assisant Research Professor
+role: Research Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -28,15 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Astrophysics
+    institution: University of Chinese Academy of Sciences 
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,12 +43,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0H27OZsAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sjyu1988
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2872-2614 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sjyu1988
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SijieYu1203

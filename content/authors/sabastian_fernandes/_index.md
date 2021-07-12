@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Sarthak Mital 
+title: Sabastian Fernandes 
 weight: 71
 
 # Username (this should match the folder name)
 authors:
-- sarthak_mital
+- sabastian_fernades
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: UG Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sm2899@njit.edu'
+  link: 'mailto:scf4@njit.edu'
 #- icon: orcid 
 #  icon_pack: ai
 #  link: http://orcid.org/0000-0002-5431-545X 
@@ -50,7 +50,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Undergraduate Students 
+user_groups:
+- Undergraduate Students 
 ---
 

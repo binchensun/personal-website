@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anastasia (Stasia) Kuske 
+title: Stasia Kuske 
 weight: 60
 
 # Username (this should match the folder name)

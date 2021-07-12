@@ -45,12 +45,15 @@ authors:
 - admin
 
 tags:
+- Publications
+- Blog
 - Solar Flares 
 - NSF
-- Publications
+- NASA
 
 categories:
 - News
+- Blog
 ---
 A long and thin, “sheet”-like structure with a strong electric current—referred to as a “current sheet”—is believed to be the “central engine” that drives large eruptive solar flares. At the current sheet, opposing magnetic field lines approach, break, and reconnect. Consequently, the previously stored magnetic energy is released to power the eruption (often observed as a coronal mass ejection) and to produce flare emissions observable in virtually the entire electromagnetic spectrum from radio to X-rays. The released magnetic energy is also responsible for accelerating charged particles to nearly the speed of light.
 

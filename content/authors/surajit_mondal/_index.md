@@ -1,42 +1,37 @@
 ---
 # Display name
-title: Yingjie Luo
-weight: 30
+title: Dr. Surajit Mondal
+weight: 20
 
 # Username (this should match the folder name)
 authors:
-- yingjie_luo
+- surajit_mondal
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: New Jersey Institute of Technology
-  url: "https://web.njit.edu/~sjyu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Radio Astronomy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: Tata Institute of Fundamental Research
+    year: 2021
+  - course: M.Sc. in Physics
+    institution: Indian Institute of Technology, Kanpur
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,10 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yl863@njit.edu'
-- icon: orcid 
+  link: 'mailto:surajit4444mondal@gmail.com'
+- icon: google-scholar
   icon_pack: ai
-  link: http://orcid.org/0000-0002-5431-545X 
+  link: https://scholar.google.com/citations?user=nRBAFy0AAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2325-5298
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students 
+- Researchers
 ---
 
 Dr. Sijie Yu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

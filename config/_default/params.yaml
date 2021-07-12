@@ -6,10 +6,10 @@
 # Appearance
 
 theme: sun 
-#theme: minimal 
+#theme: Mr Robot 
 day_night: false 
-font: ''
-font_size: L
+font: 'Native'
+font_size: L 
 
 # SEO
 

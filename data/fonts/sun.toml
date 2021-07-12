@@ -20,7 +20,8 @@ home_section_odd = "#262a35"
 home_section_even = "#22262f"
 
 # Font style
-font_size="10"
+font_size="14"
+font_size_small="12"
 
 [dark]
   link = "#bbdefb"
