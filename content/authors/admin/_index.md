@@ -4,7 +4,7 @@ weight: 10
 role: Solar Astrophysicist <br/> Associate Professor of Physics
 avatar_filename: avatar.jpg
 bio: My research interests include radio astronomy, solar flares, coronal mass
-  ejections.
+  ejections, magnetic reconnection, shocks, and particle acceleration.
 interests:
   - Solar Flares
   - Corona Mass Ejections

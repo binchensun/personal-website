@@ -66,9 +66,9 @@ A <strong>fast-mode shock</strong> can form at the top of flare arcades provided
 ![Stochastic Spike Bursts](spikes.png)
 *Fig. 1: Schematic of the flare termination shock and the associated radio bursts shown in A. The shock front outlined by the radio source centroids is shown in B. (Adapted from [Chen et al. 2015](https://ui.adsabs.harvard.edu/abs/2015Sci...350.1238C/abstract))*
 
-### Shock Compression
+### Shocked Material
 
-> <span style="color:white; font-size:22px"><em>A shock can cause plasma compression across its front with observable radio signatures.</em></span>
+> <span style="color:white; font-size:22px"><em>A shock can compress the material across its front with observable radio signatures.</em></span>
 
 A shock can compress the material across the shock front, resulting in a denser plasma in its downstream region. Because the emission frequency of plasma radiation (that falls within radio wavelengths under conditions in the solar corona) scales with the square root of the plasma density, the radio emission frequency can be used as a probe for such plasma compression across shocks. In particular, the denser, downstream plasma will emit at a slightly higher frequency than its less dense upstream counterpart, causing a slight frequency separation in the radio spectrogram. Such a "split-band" feature has been previously observed in type II radio bursts associated with CME-driven shocks (e.g., [Chrysaphi et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...868...79C/abstract)), although its origin is still under debate.
 
@@ -76,7 +76,7 @@ In [Chen et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...884...63C/abst
 
 ### Shock Seen from Another Perspective
 
-Recently, in [Luo et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract), we have reported VLA observations of another stochastic spike burst event from an eruptive solar flare viewed from a different perspective---in Chen+2015, 2019, it was viewed by the VLA above the limb; this time, it is viewed against the solar disk. A happy coincidence is that one of [NASA's STEREO spacecraft](https://stereo.gsfc.nasa.gov/) was located at ~110 degrees west (or "ahead of") Earth's orbit, which captured this event with a simultaneous limb view (Fig. 2). Using VLA spectral imaging of the spike burst source, combined with three-dimensional reconstruction of the flare arcade seen in two different perspectives, we found that the spike source is located well above the flare arcade. 
+Recently, in a new study led by our graduate student [Yingjie Luo](https://binchensun.org/#people) ([Luo et al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...911....4L/abstract)), we have reported VLA observations of another stochastic spike burst event from an eruptive solar flare viewed from a different perspective---in Chen+2015, 2019, it was viewed by the VLA above the limb; this time, it is viewed against the solar disk. A happy coincidence is that one of [NASA's STEREO spacecraft](https://stereo.gsfc.nasa.gov/) was located at ~110 degrees west (or "ahead of") Earth's orbit, which captured this event with a simultaneous limb view (Fig. 2). Using VLA spectral imaging of the spike burst source, combined with three-dimensional reconstruction of the flare arcade seen in two different perspectives, we found that the spike source is located well above the flare arcade. 
 
 It was somewhat surprising to find the spike source located at such a distance away from the EUV flare arcade. However, we identified a diffuse fan-like structure above the looptop in both the Earth view (seen by NASA's [Atmospheric Imaging Assembly](https://sdo.gsfc.nasa.gov/) aboard the Solar Dynamics Observatory) and the limb view by STEREO. They are likely associated with the newly reconnected field lines located <em>below</em> the termination shock, as suggested by a three-dimensional magnetodynamics (MHD) modeling work led by [Dr. Chengcai Shen @ CfA](https://pweb.cfa.harvard.edu/people/chengcai-shen) (Shen+2021, submitted).
 
