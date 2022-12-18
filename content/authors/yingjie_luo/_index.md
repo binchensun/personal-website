@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yingjie Luo
+title: Dr. Yingjie Luo
 weight: 30
 
 # Username (this should match the folder name)
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral Research Fellow 
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
+    year: 2022
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -61,9 +61,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students 
+- Researchers
 ---
 
-Dr. Sijie Yu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Yingjie Luo is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
