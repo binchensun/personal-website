@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Meiqi Wang 
-weight: 50
+weight: 40
 
 # Username (this should match the folder name)
 authors:

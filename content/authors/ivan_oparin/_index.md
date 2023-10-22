@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ivan Oparin 
-weight: 70
+weight: 50
 
 # Username (this should match the folder name)
 authors:
