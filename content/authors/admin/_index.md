@@ -13,6 +13,9 @@ interests:
   - Particle Acceleration
   - Radio Astronomy
 social:
+  - icon: cv
+    icon_pack: ai
+    link: https://binchensun.org/media/CV_Chen.pdf
   - icon: envelope
     icon_pack: fas
     link: /#contact

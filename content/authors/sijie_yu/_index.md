@@ -37,6 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: cv
+  icon_pack: ai
+  link: https://web.njit.edu/~sjyu/resource/SY_full_CV.pdf
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sjyu@njit.edu'
