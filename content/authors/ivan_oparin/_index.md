@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Ph.D. Candidate 
 
 # Organizations/Affiliations
 organizations:

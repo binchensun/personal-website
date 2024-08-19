@@ -1,9 +1,9 @@
 ---
 title: Prof. Bin Chen
 weight: 10
-role: Solar Astrophysicist <br/> Associate Professor of Physics
+role: Solar Astrophysicist <br/> Professor of Physics
 avatar_filename: avatar.jpg
-bio: My research interests include radio astronomy, solar flares, coronal mass
+bio: My research interests include radio astronomy and instrumentation, solar flares, coronal mass
   ejections, magnetic reconnection, shocks, and particle acceleration.
 interests:
   - Solar Flares
@@ -11,7 +11,7 @@ interests:
   - Space Weather
   - Magnetic Reconnection
   - Particle Acceleration
-  - Radio Astronomy
+  - Radio Astronomy and instrumentation
 social:
   - icon: cv
     icon_pack: ai
@@ -65,11 +65,14 @@ user_groups:
 ---
 <!--Dr. Bin Chen is an Associate Professor in the [Department of Physics](http://physics.njit.edu/) and the [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/) at the [New Jersey Institute of Technology](http://www.njit.edu/). His research focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques to study physical processes underlying the flare energy release include magnetic reconnection and particle acceleration. He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
 
-Dr. Bin Chen is an Associate Professor of Physics at the [New Jersey Institute of Technology](http://www.njit.edu/). Research in his group focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques and utilizes multi-wavelength observations to study physical processes underlying these catastrophic energy release events. He co-leads the NJIT solar radio group (with [Prof. Dale Gary](https://web.njit.edu/~gary/)), which operates the [Expanded Owens Valley Solar Array (EOVSA)](http://ovsa.njit.edu/). He is currently leading a NSF-funded project to upgrade EOVSA to EOVSA-15, which will expand it to a 15-antenna array and enable broadband imaging spectropolarimetry for the array.
+Dr. Bin Chen is a Professor of Physics at the [New Jersey Institute of Technology](http://www.njit.edu/). Research in his group focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques and utilizes multi-wavelength observations to study physical processes underlying these catastrophic energy release events. He co-leads the NJIT solar radio group (with [Prof. Dale Gary](https://web.njit.edu/~gary/)), which operates the [Expanded Owens Valley Solar Array (EOVSA)](http://ovsa.njit.edu/). He is currently leading a NSF-funded project to upgrade EOVSA to EOVSA-15, which will expand it to a 15-antenna array and enable broadband imaging spectropolarimetry for the array.
 
 <!--He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
 
-He was the recipient of AAS Solar Physics Division's [Karen Harvey Prize](https://spd.aas.org/prizes/harvey/previous) in 2023, the [National Science Foundation's CAREER Award](https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards) in 2017, and the [NASA/UCAR Jack Eddy Fellowship](https://cpaess.ucar.edu/heliophysics/jack-eddy) in 2013. He served as a Committee Member of the [Solar Physics Division of the American Astronomical Society](https://spd.aas.org/) (2019–2021). He is currently serving on the [Solar & Heliophere Panel of the NASEM 2024-2033 Solar & Space Physics Decadal Survey](https://www.nationalacademies.org/our-work/decadal-survey-for-solar-and-space-physics-heliophysics-2024-2033-panel-on-the-physics-of-the-sun-and-heliosphere). At NJIT, he serves as the Director of the [Applied Physics Graduate Program](https://physics.njit.edu/academics/graduate) (2020–present). His work receives funding from NSF and NASA. 
+He was the recipient of AAS Solar Physics Division's [Karen Harvey Prize](https://spd.aas.org/prizes/harvey/previous) in 2023, the [National Science Foundation's CAREER Award](https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards) in 2017, and the [NASA/UCAR Jack Eddy Fellowship](https://cpaess.ucar.edu/heliophysics/jack-eddy) in 2013. He served as a Committee Member of the [Solar Physics Division of the American Astronomical Society](https://spd.aas.org/) (2019–2021). He has recently served on the [Solar & Heliophere Panel of the NASEM 2024-2033 Solar & Space Physics Decadal Survey](https://www.nationalacademies.org/our-work/decadal-survey-for-solar-and-space-physics-heliophysics-2024-2033-panel-on-the-physics-of-the-sun-and-heliosphere). At NJIT, he serves as the Director of the [Applied Physics Graduate Program](https://physics.njit.edu/academics/graduate) (2020–present). His research is funded by multiple grants from NSF and NASA, totaling several million US dollars as PI.  
+
+Inquiries on potential Ph.D. or postdoctoral positions are always welcome. Please contact him by email.
+
 
 {{< icon name="download" pack="fas" >}} Download his {{< staticref "media/CV_Chen.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 

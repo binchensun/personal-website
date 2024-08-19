@@ -26,6 +26,9 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022Natur.606..674F/abstract
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
