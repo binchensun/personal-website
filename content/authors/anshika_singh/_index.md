@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Samantha Lomuscio
-weight: 90
+title: Ivan Oparin 
+weight: 80
 
 # Username (this should match the folder name)
 authors:
-- sam_lomuscio
+- iva_oparin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UG Research Assistant (2017-2020); Now Algorithm Developer at JHU/APL
+role: Graduate Student 
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2012
+  - course: BSc  
+    institution: Indian Institute of Technology
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,10 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sl7mt@virginia.edu'
-- icon: linkedin 
-  icon_pack: fab
-  link: https://www.linkedin.com/in/samantha-lomuscio-441a21138/ 
+  link: 'mailto:ido4@njit.edu'
+#- icon: orcid 
+#  icon_pack: ai
+#  link: http://orcid.org/0000-0002-5431-545X 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,6 +54,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Graduate Students 
 ---
 

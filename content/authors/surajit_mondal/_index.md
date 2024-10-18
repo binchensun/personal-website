@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Postdoctoral Research Fellow; PhD, 2021
 
 # Organizations/Affiliations
 organizations:

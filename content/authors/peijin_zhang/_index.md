@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: NASA/UCAR Jack Eddy Postdoctoral Fellow 
+role: NASA/UCAR Jack Eddy Postdoctoral Fellow; PhD, 2021
 
 # Organizations/Affiliations
 organizations:

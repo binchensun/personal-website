@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dr. Yingjie Luo
-weight: 30
+weight: 40
 
 # Username (this should match the folder name)
 authors:

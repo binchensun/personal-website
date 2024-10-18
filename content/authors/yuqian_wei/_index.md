@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dr. Yuqian Wei 
-weight: 40
+weight: 35 
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow 
+role: Postdoctoral Research Fellow; PhD, 2023
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Postdoctoral Fellows
+- Alumni
 ---
 
 Dr. Sijie Yu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
