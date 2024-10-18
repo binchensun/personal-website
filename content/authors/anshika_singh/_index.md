@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Ivan Oparin 
+title: Anshika Singh 
 weight: 80
 
 # Username (this should match the folder name)
 authors:
-- iva_oparin
+- anshika_singh
 
 # Is this the primary user of the site?
 superuser: false
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ido4@njit.edu'
+  link: 'mailto:as4883@njit.edu'
 #- icon: orcid 
 #  icon_pack: ai
 #  link: http://orcid.org/0000-0002-5431-545X 
