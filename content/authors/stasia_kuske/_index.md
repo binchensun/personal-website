@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Stasia Kuske 
-weight: 60
+weight: 20
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Ph.D. Candidate (Advisor - Chen/Nita)
 
 # Organizations/Affiliations
 organizations:

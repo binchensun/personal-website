@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Dr. Peijin Zhang
-weight: 50
+weight: 100 
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: NASA/UCAR Jack Eddy Postdoctoral Fellow; PhD, 2021
+role: OVRO-LWA Solar Project Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Fellows 
+- Research Faculty & Staff 
 ---
 
 Dr. Xingyao Chen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

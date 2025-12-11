@@ -1,37 +1,42 @@
 ---
 # Display name
-title: Dr. Surajit Mondal
-weight: 20
+title: Dr. Caius Selhorst
+weight: 70
 
 # Username (this should match the folder name)
 authors:
-- surajit_mondal
+- caius_selhorst 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow, 2021-2025; Now scientist at NCRA, India
+role: EOVSA Observer & Data Manager 
 
 # Organizations/Affiliations
 organizations:
 - name: New Jersey Institute of Technology
-  url: ""
+  url: "https://njit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Radio Astronomy
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: Tata Institute of Fundamental Research
-    year: 2021
-  - course: M.Sc. in Physics
-    institution: Indian Institute of Technology, Kanpur
-    year: 2015
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2022
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:surajit4444mondal@gmail.com'
-- icon: orcid
+  link: 'mailto:caius.selhorst@njit.edu '
+- icon: orcid 
   icon_pack: ai
-  link: https://orcid.org/0000-0002-2325-5298
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=nRBAFy0AAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/surajit4444mondal
+  link: https://orcid.org/0000-0002-5897-5236
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,9 +61,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni 
+- Research Faculty & Staff 
 ---
 
-Dr. Sijie Yu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Xingyao Chen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

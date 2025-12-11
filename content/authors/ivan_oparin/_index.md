@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Ivan Oparin 
-weight: 50
+weight: 10
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate 
+role: Ph.D. Candidate (Advisor - Chen/Fleishman)
 
 # Organizations/Affiliations
 organizations:

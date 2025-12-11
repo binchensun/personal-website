@@ -1,7 +1,7 @@
 ---
 title: Prof. Bin Chen
 weight: 10
-role: Solar Astrophysicist <br/> Professor of Physics
+role: Professor of Physics <br> OVSA PI 
 avatar_filename: avatar.jpg
 bio: My research interests include radio astronomy and instrumentation, solar flares, coronal mass
   ejections, magnetic reconnection, shocks, and particle acceleration.
@@ -61,11 +61,13 @@ superuser: true
 highlight_name: false
 
 user_groups:
-- Principal Investigators
+- Faculty
 ---
 <!--Dr. Bin Chen is an Associate Professor in the [Department of Physics](http://physics.njit.edu/) and the [Center for Solar-Terrestrial Research](https://centers.njit.edu/cstr/) at the [New Jersey Institute of Technology](http://www.njit.edu/). His research focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques to study physical processes underlying the flare energy release include magnetic reconnection and particle acceleration. He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
 
-Dr. Bin Chen is a Professor of Physics at the [New Jersey Institute of Technology](http://www.njit.edu/). Research in his group focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He develops novel radio observing techniques and utilizes multi-wavelength observations to study physical processes underlying these catastrophic energy release events. He co-leads the NJIT solar radio group (with [Prof. Dale Gary](https://web.njit.edu/~gary/)), which operates the [Expanded Owens Valley Solar Array (EOVSA)](http://ovsa.njit.edu/). He is currently leading a NSF-funded project to upgrade EOVSA to EOVSA-15, which will expand it to a 15-antenna array and enable broadband imaging spectropolarimetry for the array.
+Dr. Bin Chen is a Professor of Physics at the [New Jersey Institute of Technology](http://www.njit.edu/). His research focuses on solar flares and coronal mass ejections, the largest explosions in the solar system that can affect our Earth and near-Earth environment, known as Space Weather. He utilizes novel radio and multi-wavelength observing techniques to study physical processes underlying these catastrophic energy release events. He is also keen in developing new radio instrumentation for solar and space weather studies.
+
+He serves as the Principal Investigator of the [Owens Valley Solar Arrays (OVSA)](https://ovsa.njit.edu). OVSA is an NSF-funded community facility under the [Geospace Facilities Program](https://www.nsf.gov/geo/research-infrastructure) of the Division of Atmospheric and Geospace Sciences. It consists of the Expanded Owens Valley Solar Array (EOVSA) as well as the solar and space weather aspects of the Long Wavelength Array at the Owens Valley Radio Observatory (OVRO-LWA). He is currently leading a NSF-funded project ([AGS-2320478](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2320478)) to upgrade EOVSA to EOVSA-15, which will expand it to a 15-antenna array and enable the new capability of broadband imaging spectropolarimetry.
 
 <!--He utilize observations from state-of-the-art radio telescopes, including [Expanded Owens Valley Solar Array](http://ovsa.njit.edu/), [Karl G. Jansky Very Large Array](https://science.nrao.edu/facilities/vla), and [Atacama Large (sub)Millimeter Array](https://www.almaobservatory.org/en/home/), and multiple NASA space telescopes including [SDO](https://sdo.gsfc.nasa.gov/), [RHESSI](https://hesperia.gsfc.nasa.gov/rhessi3/), [Hinode](https://www.nasa.gov/mission_pages/hinode/mission.html), and [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu).-->
 

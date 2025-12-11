@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow; PhD, 2019
+role: Postdoctoral Fellow, 2023-2025; Now scientist at NSSC, CAS
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Fellows 
+- Alumni
 ---
 
 Dr. Xingyao Chen is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
