@@ -14,7 +14,7 @@ if ! command -v hugo >/dev/null 2>&1; then
   exit 1
 fi
 
-if [[ ! -d "${PUBLIC_DIR}/.git" ]]; then
+if ! git -C "${PUBLIC_DIR}" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   echo "Error: ${PUBLIC_DIR} is not initialized as the publishing repository." >&2
   echo "Try: git submodule update --init --recursive" >&2
   exit 1
