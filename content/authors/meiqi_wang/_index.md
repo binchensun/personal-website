@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Meiqi Wang 
+title: Dr. Meiqi Wang 
 weight: 40
 
 # Username (this should match the folder name)

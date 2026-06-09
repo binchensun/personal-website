@@ -20,7 +20,7 @@ content:
   - Research Faculty & Staff
   - Postdoctoral Fellows
   - Graduate Students
-  - Undergraduate Students 
+  # - Undergraduate Students 
   - Alumni
   order: desc
 design:
